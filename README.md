@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Daswanson22
 - 👀 I’m interested in desktop applications, mobile applications, cybersecurity, and game design.
 - 🌱 I’m currently learning Kivy, AWS Cloud and IOS App development with Swift.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on mobile applications or game development.
 - 📫 How to reach me:
       - All my socials are: @ Daswanson22
 
