@@ -2,7 +2,9 @@
 - 👀 I’m interested in desktop applications, mobile applications, cybersecurity, and game design.
 - 🌱 I’m currently learning Kivy, AWS Cloud and IOS App development with Swift.
 - 💞️ I’m looking to collaborate on mobile applications or game development.
-- 📫 How to reach me:
+- 📫 Contact Me @
+      - Daswanson22@gmail.com
+      - (805)-551-9345
       - All my socials are: @ Daswanson22
 
 <!---
